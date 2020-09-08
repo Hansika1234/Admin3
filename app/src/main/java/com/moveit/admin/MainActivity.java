@@ -32,4 +32,6 @@ public class MainActivity extends AppCompatActivity {
         Update=findViewById(R.id.btn_update);
         New=findViewById(R.id.btn_New);
     }
+
+    //mn methna comment krnwa
 }
